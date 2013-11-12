@@ -1,0 +1,100 @@
+
+body {
+	margin: 0;padding: 0;
+	background: #0e7eed;
+	font: 100% normal Arial, sans-serif;
+	color: #fff;
+}
+
+body, h1, h2, p {
+	margin: 0; padding: 0;
+}
+
+#logo {
+	padding: 30px 1em
+}
+
+#mainHeader {
+	background: #0080ff;
+	position: relative;
+	box-shadow: 0px -4px 16px 1px #888;
+	-webkit-box-shadow: 0px -4px 16px 1px #888;
+}
+
+#goBack,
+#addNew {
+	color: #fff;
+	position: absolute;
+	text-decoration: none;
+	font-size: 70px;
+	font-weight: normal;
+	top: 12px;
+	right: 30px;
+}
+
+#goBack {
+	font-size: 80px;
+	top: 50%;
+	margin-top: -51px;
+}
+
+#main {
+	width: 90%;
+	margin: 0 auto;
+	padding: 40px 0;
+}
+
+.idea {
+	margin-bottom: 2em;
+}
+
+.idea header {
+	margin-bottom: 1em;
+	font-size: 1.3em;
+}
+
+.idea p {
+	line-height: 1.4em;
+}
+
+label {
+	display: block;
+}
+
+textarea,
+input[type="text"] {
+	padding: 0.5em;
+	font-family: Arial, sans-serif;
+	font-size: 1.3em;
+	color: #777;
+}
+
+label, input, textarea, button {
+	border: 0;
+	padding: 0;
+	display: block;
+	width: 100%;
+	margin-bottom: 1em;
+	font-size: 1.3em;
+}
+
+h1, h2 {
+	font-weight: normal;
+	margin-bottom: 1em;
+}
+
+label {
+	font-size: 1.3em;
+}
+
+button {
+	font-size: 1.7em;
+	padding: 1em 0;
+	background: #00acff;
+	color: #fff;
+}
+
+textarea {
+	height: 20em;
+	padding: 0.5em;
+}
