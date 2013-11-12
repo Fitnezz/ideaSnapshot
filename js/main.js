@@ -22,7 +22,6 @@ $(function() {
 			var _d = d.toDateString() + ' ' + d.getHours() + ':' + m;
 			_t = '<article class="idea"><header><span>' + e.place + '</span>, ' +_d+'</span></header><p>'+e.body+'</p></article>';
 			$('#main').append($(_t));
-			console.log(i);
 		}
 	}
 
