@@ -1,6 +1,16 @@
 
 
 $(function() {
+
+	function exportData(data) {
+		var b = JSON.stringify(data);
+		var s = 'from phonegap';
+		var to = 'nosul.jan@gmail.com';
+		var uri = 'mailto:'+to+'?subject='+s+'&body='+b;
+		$('#emailSender').attr('href', uri);
+	}
+
+
 	function addEntry() {
 		var e = {};
 		e.time = new Date().getTime();
