@@ -1,0 +1,75 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: QMGHyKUAPFNkkE8hK5/comAPzzE=
+
+Name: assets/www/js/main.js
+SHA1-Digest: re7xKn9T549g/Ajj2kBcdZm3Krs=
+
+Name: assets/www/README.md
+SHA1-Digest: hI97HW8VXb0evwh+XsmS3gfcPLE=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: res/xml/config.xml
+SHA1-Digest: w6CdfjGHnpLJUMzr4EWDiZcOMpk=
+
+Name: assets/www/js/jquery.js
+SHA1-Digest: Fht47FLyhleoNeSlQj8DeC/TWAY=
+
+Name: resources.arsc
+SHA1-Digest: cxCloHv7xasRL838fkLL6+40oGk=
+
+Name: assets/www/logo.png
+SHA1-Digest: XcID8yAN8KgCzLlcdXtlFyLLYps=
+
+Name: classes.dex
+SHA1-Digest: w6+yScekwMWrFoz2s1VivsGqXF8=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: CepliFtAgOUV73Bk6BbHeZHAdXs=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: Ur0waEgp7U7BVioX3utWixRn7I8=
+
+Name: res/layout/main.xml
+SHA1-Digest: 7Q2p7qhLxgHseDUJdgymkl8CVC8=
+
+Name: assets/www/cordova.js
+SHA1-Digest: Ur0waEgp7U7BVioX3utWixRn7I8=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: QMGHyKUAPFNkkE8hK5/comAPzzE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XzOH+lBnswyb6GhYoQd4IxqIOB8=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+
+Name: res/drawable/icon.png
+SHA1-Digest: V29pfkn63ZKvWbMehv1gXLydfEg=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: QMGHyKUAPFNkkE8hK5/comAPzzE=
+
+Name: assets/www/addNew.html
+SHA1-Digest: FE1ZZjh6cp1xlEia1ydnQZERB5c=
+
+Name: assets/www/css/main.css
+SHA1-Digest: UhF3Iyr3jmO5/CbVrvPdz8tfssc=
+
+Name: assets/www/images/logo.png
+SHA1-Digest: h6TfgkDGGSKtTvWL86jB+ZLZ7cQ=
+
+Name: assets/www/index.html
+SHA1-Digest: x+Xl6Jq/plpUfrb1MNbCE9Unnus=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: QMGHyKUAPFNkkE8hK5/comAPzzE=
+
