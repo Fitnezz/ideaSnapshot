@@ -1,0 +1,119 @@
+* {
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+body, h1, h2, p {
+	margin: 0; padding: 0;
+}
+
+
+body {
+    -webkit-touch-callout: none;
+    -webkit-text-size-adjust: none;
+    -webkit-user-select: none;
+	margin: 0;padding: 0;
+	background: #0e7eed;
+	font: 100% normal Arial, sans-serif;
+	color: #fff;
+	width: 100%;
+	min-height: 100%;
+}
+
+h1, h2 {
+	font-weight: normal;
+	margin-bottom: 1em;
+}
+
+#logo img {
+	width: 30%;
+	display: block;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto 0 auto 5%;
+}
+
+
+#mainHeader {
+	background: #0080ff;
+	position: relative;
+	box-shadow: 0px -4px 16px 1px #888;
+	-webkit-box-shadow: 0px -4px 16px 1px #888;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 0;
+	height: 110px;
+}
+
+#mainHeader a {
+	text-decoration: none;
+}
+
+#main {
+	width: 90%;
+	margin: 0 auto;
+	padding: 150px 0 40px 0;
+}
+
+.idea {
+	margin-bottom: 2em;
+}
+
+.idea header {
+	margin-bottom: 1em;
+	font-size: 1.3em;
+}
+
+.idea p {
+	line-height: 1.4em;
+}
+
+label {
+	display: block;
+	font-size: 1.3em;
+}
+
+textarea,
+input[type="text"] {
+	padding: 1em;
+	font-family: Arial, sans-serif;
+	font-size: 1.3em;
+	color: #777;
+	box-sizing: border-box;
+}
+
+textarea {
+	height: 7em;
+	padding: 0.5em;
+}
+
+label, input, textarea, button {
+	border: 0;
+	padding: 0;
+	display: block;
+	width: 100%;
+	margin-bottom: 1em;
+	font-size: 1.3em;
+}
+
+button {
+	font-size: 1.7em;
+	padding: 1em 0;
+	background: #00acff;
+	color: #fff;
+}
+
+#nav {
+	height: 100%;
+	float: right;
+	margin-right: 5%;
+}
+
+#nav img {
+	position: relative;
+	top: 50%;
+	margin-top: -18px;
+	margin-left: 2em;
+}
