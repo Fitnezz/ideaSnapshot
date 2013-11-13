@@ -65,10 +65,11 @@ label {
 
 textarea,
 input[type="text"] {
-	padding: 0.5em;
+	padding: 1em;
 	font-family: Arial, sans-serif;
 	font-size: 1.3em;
 	color: #777;
+	box-sizing: border-box;
 }
 
 label, input, textarea, button {
@@ -97,6 +98,6 @@ button {
 }
 
 textarea {
-	height: 20em;
+	height: 7em;
 	padding: 0.5em;
 }
